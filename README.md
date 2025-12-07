@@ -14,7 +14,7 @@ It provides a simple GUI interface, integrates calendar data, and supports task 
 - Modular design: organized into `controller`, `model`, `util`, and `main` packages for clarity
 
 ## Project Structure
-SmartSchedulePlanner/
+```SmartSchedulePlanner/
 ├── data/                         # Text files for calendar and tasks
 │   ├── calendar_2025.txt         # Predefined calendar data
 │   ├── regular_tasks.txt         # List of recurring tasks
